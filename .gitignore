@@ -1,2 +1,4 @@
 myenv/
 myenv/
+.DS_Store
+dl_env/
